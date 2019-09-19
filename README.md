@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TailSpin0843/Space%20Game%20-%20web/_apis/build/status/pq-kvaca.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/TailSpin0843/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
